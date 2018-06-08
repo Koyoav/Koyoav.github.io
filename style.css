@@ -1,0 +1,63 @@
+/*selector{
+	property: value;
+}
+*/
+
+body{
+	background-image: url(https://images.unsplash.com/photo-1440337386388-f5fd01e85bd5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bcc5b88a1eae06b0208210f8887d78f3&auto=format&fit=crop&w=1950&q=80);
+	background-size: cover;
+	font-family: EzraSILW, GentiumPlusW, Arial;
+}	
+h1 {
+	color: rgb(47, 68, 115);
+	text-align: center;
+	border: 5px solid rgba(120, 135, 171, 0.5);
+	font-family:  Arial;
+}
+
+h2,h3{
+	text-align: center;
+	font-family:  Arial;
+}
+
+form{
+	text-align: center;
+	}
+
+li {
+	text-align: center;
+	display: inline block;
+	list-style-type: none; 	
+}
+
+a{
+	text-decoration-line: none;
+}
+
+p {
+	color: black;
+	font-size: 120%;
+	background-color: grey
+}
+
+
+span{
+	font-size: 2rem;}
+
+img {
+float: right;
+}
+
+footer {
+	text-align: center;
+	clear: both;
+}
+
+.Back {
+	font-size: 120%;
+	font-style: bold;
+	font-family: Arial;
+	background-color: rgba(85, 57, 0, 0.3);
+}
+
+}
